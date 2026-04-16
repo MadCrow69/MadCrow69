@@ -1,9 +1,9 @@
 ### Seja bem vindo ao meu Git, espero que consiga contribuir com algo em seu projeto!!
 
 - 🔭 Trabalhando com automações.
-- 🌱 Estudando IA e tecnologias novas.
+- 🌱 Estudando tudo quando e tecnologias novas (e antigas tbm).
 - 🐍☕ Desenvolvendo em Go e Python mas com raizes em C, C++ e Java, porém aberto a desenvolver a qualquer linguagem, pois logica é o mais importante.
-- 🔧⚙ Utilizador de ferramentas como Eclipse no passado e Visual Studio atualmente.
+- 🔧⚙ Utilizador de ferramentas como Eclipse no passado e Visual Studio / Antigravity atualmente.
  
 ##
 
