@@ -1,6 +1,6 @@
 ## Diego Ozorio Antunes
 
-**Arquiteto de Soluções em IA** · IA em produção, não em PoC.
+**Arquiteto de Soluções em IA e fundador da [MLK Data Flow](https://mlkdataflow.com.br)** · IA em produção, não em PoC.
 
 Atuo em três níveis: arquitetar, implementar e orientar. Desenho e entrego agentes de IA com RAG e tool calling, plataformas SaaS multi-tenant e integrações com ERP, cuidando também de dados, BI e infraestrutura.
 
@@ -53,5 +53,6 @@ Antes do software, foram mais de 15 anos em hardware, campo e gestão: desenvolv
 
 ### Contato
 
+[![MLK Data Flow](https://img.shields.io/badge/MLK_Data_Flow-1C3C3C?style=flat-square)](https://mlkdataflow.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/diego-ozorio-antunes/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pj.doa.ti@gmail.com)
