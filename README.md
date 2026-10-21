@@ -40,6 +40,8 @@ Antes do software, foram mais de 15 anos em hardware, campo e gestão: desenvolv
 
 ### Atividade
 
+Em 2026 (até outubro): commits em 43 repositórios, a maioria privados de clientes e produtos próprios, e 87 pull requests, 76 deles integrados.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MadCrow69&locale=pt_BR&theme=github-dark-blue&hide_border=true">
   <img alt="Sequência de contribuições no GitHub" src="https://streak-stats.demolab.com?user=MadCrow69&locale=pt_BR&hide_border=true">
