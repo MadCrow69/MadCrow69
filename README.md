@@ -17,6 +17,10 @@ Antes do software, foram mais de 15 anos em hardware, campo e gestão: desenvolv
 
 > A maior parte desse trabalho está em repositórios privados de clientes. As contribuições abaixo incluem esses repositórios.
 
+### Código aberto
+
+- [**Lavra**](https://github.com/MadCrow69/lavra-ata) · [demo](https://madcrow69.github.io/lavra-ata/): gera atas de reunião brasileiras a partir da transcrição, direto no navegador e sem servidor. Usa a sua própria chave de IA (OpenAI, Gemini ou Anthropic) e mascara CPF, CNPJ, telefone e e-mail antes de qualquer envio, com a biblioteca [`@lavra/pii-br`](https://github.com/MadCrow69/lavra-ata/tree/main/packages/pii-br). A privacidade pode ser conferida por quem usa: a política de segurança do navegador (CSP) só libera os endereços dos provedores de IA, e o README traz o passo a passo para checar na aba Rede.
+
 ### Produtos próprios
 
 - [**RecursoFácil.IA**](https://recursofacil.ia.br): recursos de multas com OCR e IA multi-modelo. Mais de 4.000 multas analisadas, em menos de 3 minutos cada.
